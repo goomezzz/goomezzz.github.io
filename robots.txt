@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /trash/
+
+Sitemap: https://goomezzz.github.io/sitemap.xml
